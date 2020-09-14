@@ -76,7 +76,7 @@ body {
   width: 100px;
   padding: 30px 10px 10px 10px;
   position: absolute;
-  top: 47%;
+  top: 97%;
   right: 10%;
   justify-content: flex-end;
   align-items: center;
@@ -175,7 +175,7 @@ body {
     z-index: 10;
 }
 
-@media all and (max-width: 476px) {
+@media all and (max-width: 376px) {
   body {
     width: 300px;
     height: auto;
@@ -228,8 +228,8 @@ body {
 
   .share {
     position: absolute;
-    top: 71%;
-    right: 25%;
+    top: 89%;
+    right: 20%;
 
   }
   .share-icon{
