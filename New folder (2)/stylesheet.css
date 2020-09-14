@@ -180,7 +180,7 @@ body {
     width: 300px;
     height: auto;
     margin: 0;
-    padding: 10%;
+    padding: 20%;
     align-content: flex-start;
   }
 
@@ -228,8 +228,8 @@ body {
 
   .share {
     position: absolute;
-    top: 78%;
-    right: 30%;
+    top: 94%;
+    right: 25%;
 
   }
   .share-icon{
@@ -249,8 +249,8 @@ body {
 
   }
  .share-text{
-   display: flex;
    font-family: fantasy;
+   display: flex;
    letter-spacing: 5px;
    font-size: 13px;
    padding: 17px 20px 10px 30px;
