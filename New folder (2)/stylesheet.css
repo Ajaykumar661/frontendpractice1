@@ -175,7 +175,7 @@ body {
     z-index: 10;
 }
 
-@media all and (max-width: 376px) {
+@media all and (max-width: 576px) {
   body {
     width: 300px;
     height: auto;
@@ -228,8 +228,8 @@ body {
 
   .share {
     position: absolute;
-    top: 89%;
-    right: 20%;
+    top: 78%;
+    right: 30%;
 
   }
   .share-icon{
